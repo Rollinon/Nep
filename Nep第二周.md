@@ -10,7 +10,7 @@
 
 记录下[Tornado.web.Application的setting参数](https://www.wolai.com/rollinon0/neEvvcpzZSmniE8UTDAXpU?theme=light)
 
-另外发现了一个比较好玩的学习Git命令的网站叫做[Learn Git Branching](https://learngitbranching.js.org)
+另外发现了一个比较好玩的学习Git命令的网站叫做[Learn Git Branching](https://learngitbranching.js.org),恰好可以做完,总结一下Git的命令
 
 感觉SSTI还需要学习得更透彻一点，需要对框架比较熟悉，这个需要时间慢慢补足
 
